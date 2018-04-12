@@ -9,7 +9,7 @@ library(TSA)
 library(gplots)
 
 #Set Working Directory
-setwd("D:/Mario Documents/Graduate School/Ph.D Dissertation/ChenChanSimulation")
+setwd("D:/Mario Documents/Graduate School/Github Repositories/RegularizationMethodsForSubsetARMASelection")
 
 #Function Code for Different Methods
 source("subsetARMACode.R")

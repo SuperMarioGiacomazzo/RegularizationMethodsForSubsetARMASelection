@@ -7,7 +7,7 @@ library(gridExtra)
 library(cowplot)
 
 #Set Working Directory
-setwd("D:/Mario Documents/Graduate School/Ph.D Dissertation/ChenChanSimulation")
+setwd("D:/Mario Documents/Graduate School/Github Repositories/RegularizationMethodsForSubsetARMASelection")
 source("subsetARMACode.R")
 
 #Length of Usable Observations => Number of Rows in Model Matrix
